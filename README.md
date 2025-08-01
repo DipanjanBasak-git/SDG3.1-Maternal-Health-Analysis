@@ -1,9 +1,9 @@
 # SDG3.1-Maternal-Health-Analysis
-SDG3.1-Maternal-Health-Analysis
-Project Overview
+
+# Project Overview
 This project presents a data-driven analysis of maternal health advancements, specifically focusing on the objectives of Sustainable Development Goal (SDG) 3.1. Utilizing an official government dataset, the analysis provides comprehensive insights into maternal mortality trends, regional disparities, and the discernible impact of healthcare expenditure. The entire project was executed within the IBM Cloud ecosystem, thereby demonstrating a robust and reproducible analytical pipeline.
 
-Key Features
+# Key Features
 Data Analysis & Preprocessing: Cleans and prepares data on maternal mortality and healthcare expenditure using Python's Pandas library.
 
 Trend Visualization: Generates a line chart to visualize historical trends in Maternal Mortality Ratio (MMR) for a specific country.
@@ -12,7 +12,7 @@ Comparative Analysis: Creates a bar chart to compare MMR across different countr
 
 Correlation Analysis: Produces a heatmap to identify the statistical relationship between MMR and Healthcare Spending.
 
-Dataset
+## Dataset
 The primary dataset is SDG-3-1-DATA-GOV.csv, sourced from the official Data.gov.in AI Kosh platform.
 
 Technologies & Tools

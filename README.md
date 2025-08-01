@@ -83,5 +83,5 @@ Conclusion
 This project demonstrates a practical and impactful application of data analysis to track a critical global health goal, providing clear and visual evidence that can inform policymakers and stakeholders.
 
 ## About the Author
-Name: Dipanjan Basak
+Name: Dipanjan Basak ;
 Institution: Institute of Engineering and Management (IEM)
